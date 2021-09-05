@@ -1,0 +1,15 @@
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/bin/Debug/net5.0/2-CriandoVariaveis.deps.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/bin/Debug/net5.0/2-CriandoVariaveis.runtimeconfig.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/bin/Debug/net5.0/2-CriandoVariaveis.runtimeconfig.dev.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/bin/Debug/net5.0/2-CriandoVariaveis.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/bin/Debug/net5.0/ref/2-CriandoVariaveis.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/bin/Debug/net5.0/2-CriandoVariaveis.pdb
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.csproj.AssemblyReference.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.AssemblyInfoInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.AssemblyInfo.cs
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/ref/2-CriandoVariaveis.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.pdb
+/Users/marly/Projects/dotnet/alura_parte1/aula3/2-CriandoVariaveis/obj/Debug/net5.0/2-CriandoVariaveis.genruntimeconfig.cache
