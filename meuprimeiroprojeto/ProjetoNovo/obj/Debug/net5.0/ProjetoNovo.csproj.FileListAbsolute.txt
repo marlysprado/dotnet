@@ -1,0 +1,15 @@
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/bin/Debug/net5.0/ProjetoNovo.deps.json
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/bin/Debug/net5.0/ProjetoNovo.runtimeconfig.json
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/bin/Debug/net5.0/ProjetoNovo.runtimeconfig.dev.json
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/bin/Debug/net5.0/ProjetoNovo.dll
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/bin/Debug/net5.0/ref/ProjetoNovo.dll
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/bin/Debug/net5.0/ProjetoNovo.pdb
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.csproj.AssemblyReference.cache
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.AssemblyInfoInputs.cache
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.AssemblyInfo.cs
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.csproj.CoreCompileInputs.cache
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.dll
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ref/ProjetoNovo.dll
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.pdb
+/Users/marly/Projects/dotnet/meuprimeiroprojeto/ProjetoNovo/obj/Debug/net5.0/ProjetoNovo.genruntimeconfig.cache
