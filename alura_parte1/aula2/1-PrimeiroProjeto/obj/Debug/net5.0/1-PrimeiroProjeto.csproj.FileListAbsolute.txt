@@ -1,0 +1,15 @@
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/bin/Debug/net5.0/1-PrimeiroProjeto.deps.json
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/bin/Debug/net5.0/1-PrimeiroProjeto.runtimeconfig.json
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/bin/Debug/net5.0/1-PrimeiroProjeto.runtimeconfig.dev.json
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/bin/Debug/net5.0/1-PrimeiroProjeto.dll
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/bin/Debug/net5.0/ref/1-PrimeiroProjeto.dll
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/bin/Debug/net5.0/1-PrimeiroProjeto.pdb
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.csproj.AssemblyReference.cache
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.AssemblyInfoInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.AssemblyInfo.cs
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.dll
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/ref/1-PrimeiroProjeto.dll
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.pdb
+/Users/marly/Projects/dotnet/alura_parte1/AprendendoCSharp/1-PrimeiroProjeto/obj/Debug/net5.0/1-PrimeiroProjeto.genruntimeconfig.cache
