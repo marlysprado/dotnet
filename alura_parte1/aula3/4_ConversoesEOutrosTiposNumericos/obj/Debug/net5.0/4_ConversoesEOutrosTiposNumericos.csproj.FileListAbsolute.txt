@@ -1,0 +1,15 @@
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/bin/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.deps.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/bin/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.runtimeconfig.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/bin/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/bin/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/bin/Debug/net5.0/ref/4_ConversoesEOutrosTiposNumericos.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/bin/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.pdb
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/ref/4_ConversoesEOutrosTiposNumericos.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.pdb
+/Users/marly/Projects/dotnet/alura_parte1/aula3/4_ConversoesEOutrosTiposNumericos/obj/Debug/net5.0/4_ConversoesEOutrosTiposNumericos.genruntimeconfig.cache
