@@ -1,0 +1,15 @@
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/bin/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.deps.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/bin/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/bin/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.runtimeconfig.dev.json
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/bin/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/bin/Debug/net5.0/ref/3-CriandoVariaveisPontoFlutuante.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/bin/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.pdb
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/ref/3-CriandoVariaveisPontoFlutuante.dll
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.pdb
+/Users/marly/Projects/dotnet/alura_parte1/aula3/3-CriandoVariaveisPontoFlutuante/obj/Debug/net5.0/3-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
